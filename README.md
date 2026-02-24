@@ -34,34 +34,7 @@ prtf/
     `-- data/
 ```
 
-## Installation
+portfolio : https://bmadad.netlify.app/#accueil
 
-1. Installer Node.js (https://nodejs.org)
-2. Aller dans le backend:
 
-```bash
-cd backend
-npm install
-```
 
-3. Copier le fichier de configuration:
-
-```bash
-copy .env.example .env
-```
-
-4. Remplir les variables SMTP dans `backend/.env`
-5. Demarrer le serveur:
-
-```bash
-npm start
-```
-
-Le backend tourne sur `http://localhost:3001`.
-
-## Test rapide
-
-1. Ouvrir `index.html` dans le navigateur
-2. Remplir le formulaire de contact
-3. Verifier la reception de l'email
-4. Verifier la sauvegarde locale dans `backend/data/messages.json`
