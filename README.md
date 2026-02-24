@@ -32,7 +32,8 @@ prtf/
     |-- package.json
     |-- server.js
     `-- data/
-🌐 Live Demo : https://bmadad.netlify.app/#accueil
+🌐 Live Demo :
+https://bmadad.netlify.app
 
 
 
