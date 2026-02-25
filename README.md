@@ -1,4 +1,5 @@
 ﻿# Portfolio - Badreddine MADAD
+  live demo: https://bmadad.netlify.app/#home
 
 Portfolio professionnel de Badreddine MADAD, etudiant en 3eme annee d'informatique a l'Universite de Namur.
 
@@ -32,8 +33,7 @@ prtf/
     |-- package.json
     |-- server.js
     `-- data/
-🌐 Live Demo :
-https://bmadad.netlify.app
+
 
 
 
