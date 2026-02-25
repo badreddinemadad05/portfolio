@@ -1,15 +1,7 @@
 ﻿# Portfolio - Badreddine MADAD
   live demo: https://bmadad.netlify.app/#home
 
-Portfolio professionnel de Badreddine MADAD, etudiant en 3eme annee d'informatique a l'Universite de Namur.
-
-## Informations Personnelles
-
-- Nom: Badreddine MADAD
-- Age: 20 ans
-- Date de naissance: 9 avril 2005
-- Etudes: 3eme annee Informatique - Universite de Namur
-- Localisation: Namur, Belgique
+ Badreddine MADAD, etudiant en 3eme annee d'informatique a l'Universite de Namur.
 
 ## Technologies
 
